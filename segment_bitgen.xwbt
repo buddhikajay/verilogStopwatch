@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Temp\Desktop\120026E\stpwatch\segment.ncd
+OUTFILE=C:\Users\Temp\Desktop\120026E\stpwatch\segment.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\Temp\Desktop\120026E\stpwatch
+LICENSE=WebPack
+USER_INFO=__0_0_0

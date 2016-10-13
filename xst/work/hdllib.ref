@@ -1,0 +1,13 @@
+MO clock NULL segment.v vlg20/clock.bin 1475895822
+MO stop4 NULL segment.v vlg22/stop4.bin 1475826686
+MO segment NULL segment.v vlg1B/segment.bin 1475930794
+MO digit NULL segment.v vlg79/digit.bin 1475930794
+MO two_to_four_dec NULL segment.v vlg7A/two__to__four__dec.bin 1475930794
+MO two_bit_counter NULL segment.v vlg6F/two__bit__counter.bin 1475930794
+MO digit_reg NULL segment.v vlg4E/digit__reg.bin 1475929567
+MO bcd_decoder NULL segment.v vlg7A/bcd__decoder.bin 1475930794
+MO displayer NULL segment.v vlg59/displayer.bin 1475840086
+MO mux NULL segment.v vlg66/mux.bin 1475930794
+MO decoder NULL segment.v vlg02/decoder.bin 1475897769
+MO controller NULL segment.v vlg54/controller.bin 1475929567
+MO msClock NULL segment.v vlg24/ms_clock.bin 1475930794
